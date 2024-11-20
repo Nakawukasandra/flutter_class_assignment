@@ -1,3 +1,4 @@
+![flutter assignment](https://github.com/user-attachments/assets/b5f365f9-53c5-4a60-b74b-eb42ca7f1a03)
 # dart_models
 
 A new Flutter project.
